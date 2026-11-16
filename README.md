@@ -1,5 +1,3 @@
-# healthcare-insurance-analysis
-An exploratory data analysis project examining healthcare insurance data to identify trends, patterns, and insights.
 # Healthcare Insurance Analysis
 
 A two-page Power BI dashboard analysing medical insurance charges by age, BMI, smoking status, region, sex and number of children.
@@ -15,7 +13,8 @@ A two-page Power BI dashboard analysing medical insurance charges by age, BMI, s
 ## Dataset
 
 Medical insurance dataset with 1.34K policyholders and these fields: age, sex, BMI, children, smoker, region, charges.
-Source: [add the link, e.g. Kaggle]
+
+Source: [Medical Cost Personal Datasets (Kaggle)](https://www.kaggle.com/code/mragpavank/medical-cost-personal-datasets)
 
 ## Key Metrics
 
@@ -39,17 +38,17 @@ Source: [add the link, e.g. Kaggle]
 - **Charges rise with age.** The average charge climbs from $9K (18-29) to $21K (60+).
 - **Charges rise with BMI.** The average is $15K for the obese category, against $9K for underweight.
 - **Region:** the Southeast has the highest total charges ($5.36M).
-- **Children:** average charges peak at $15.4K for policyholders with 3 children and drop to $8.8K at 5 children.
 
 ## Tools Used
 
-- Power BI (data modelling and visualisation)
-- DAX (measures, e.g. smoker cost multiple, high-cost share)
-- [Power Query, if you used it for cleaning or age/BMI grouping]
+- **Power Query:** data cleaning and preparation
+- **Power BI:** data modelling and visualisation
+- **DAX:** measures such as smoker cost multiple, smoker share of charges and high-cost share
 
 ## Repository Structure
 
 ```
+├── README.md
 ├── data/        # source CSV
 ├── dashboard/   # .pbix file
 ├── images/      # dashboard screenshots
@@ -58,5 +57,5 @@ Source: [add the link, e.g. Kaggle]
 
 ## Author
 
-Fidelis Emechete
-[LinkedIn link] | [GitHub profile]
+**Fidelis Emechete**
+[LinkedIn](https://www.linkedin.com/in/fidelis-emechete)
