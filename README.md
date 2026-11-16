@@ -5,10 +5,10 @@ A two-page Power BI dashboard analysing medical insurance charges by age, BMI, s
 ## Dashboard Preview
 
 ### Page 1: Overview
-![Overview](images/dashboard-overview)
+![Overview](Images/dashboard-overview.png)
 
 ### Page 2: Risk & Cost Drivers
-![Risk and Cost Drivers](images/dashboard-risk-cost-drivers)
+![Risk and Cost Drivers](Images/dashboard-risk-cost-drivers.png)
 
 ## Dataset
 
